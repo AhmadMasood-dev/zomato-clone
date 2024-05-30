@@ -348,16 +348,11 @@ header {
   color: darkslategray;
   grid-template-columns: repeat(4, 1fr);
   line-height: 3.2;
-  /* grid-template-rows: repeat(1,1fr); */
-  /* row-gap: 3.8rem; */
-  /* column-gap: 4.8rem; */
 }
 .end-column a {
   width: 190px;
   font-size: 1rem;
   font-weight: lighter;
-  /* margin: 30px 0; */
-  /* display: inline-block; */
 }
 .first img {
   width: 128px;
@@ -404,17 +399,6 @@ header {
   font-size: 0.9rem;
   line-height: 1.9;
 }
-/* 
-.second img{
-    width: 145px;
-    height: 48px;
-    margin-top: 11px;
-    cursor: pointer;
-} 
-.second img:first-child{
-    width: 140px;
-    height: 90px;
-} */
 .second img {
   width: 137px;
   height: 40px;
